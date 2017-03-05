@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace JayAutoMessage
 {
-    [Activity(Label = "JayAutoMessage", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "")]
     public class MainActivity : Activity
     {
         int count = 1;

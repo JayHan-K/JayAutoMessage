@@ -1,0 +1,8 @@
+JayAutoMessage.IntroActivity, JayAutoMessage;md5918c56bdec816080d1ff9175150bf9b3.IntroActivity
+JayAutoMessage.IntroActivity, JayAutoMessage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5918c56bdec816080d1ff9175150bf9b3.IntroActivity
+JayAutoMessage.IntroActivity;md5918c56bdec816080d1ff9175150bf9b3.IntroActivity
+jayautomessage.IntroActivity;md5918c56bdec816080d1ff9175150bf9b3.IntroActivity
+JayAutoMessage.MainActivity, JayAutoMessage;md5918c56bdec816080d1ff9175150bf9b3.MainActivity
+JayAutoMessage.MainActivity, JayAutoMessage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5918c56bdec816080d1ff9175150bf9b3.MainActivity
+JayAutoMessage.MainActivity;md5918c56bdec816080d1ff9175150bf9b3.MainActivity
+jayautomessage.MainActivity;md5918c56bdec816080d1ff9175150bf9b3.MainActivity
